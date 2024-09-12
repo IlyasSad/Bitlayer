@@ -1,0 +1,178 @@
+15:51:35.53 | INFO | Баланс кошелька 0xF340B3CA28e724fC1701705db268BeEB03bAb2d2: 0 wBTC || 0
+15:52:02.11 | INFO | Баланс кошелька 0xF340B3CA28e724fC1701705db268BeEB03bAb2d2: 0 wBTC || 0 BTC
+15:53:34.84 | INFO | Баланс кошелька 0xF340B3CA28e724fC1701705db268BeEB03bAb2d2: 0 wBTC || 0 BTC
+15:53:35.63 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0 BTC
+15:54:49.77 | INFO | Баланс кошелька 0xF340B3CA28e724fC1701705db268BeEB03bAb2d2: 0 wBTC || 0.00007389 BTC
+15:54:50.45 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:23:42.14 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:23:42.14 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+16:25:16.05 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:25:16.05 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+16:27:06.87 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:27:06.87 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+16:28:56.59 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:28:56.59 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: ("The function 'Deposit' was not found in this contract's abi.", ' Are you sure you provided the correct contract abi?')
+16:30:55.16 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:30:55.16 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: ("The function 'Deposit' was not found in this contract's abi.", ' Are you sure you provided the correct contract abi?')
+16:31:15.09 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:31:15.09 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: ("The function 'Deposit' was not found in this contract's abi.", ' Are you sure you provided the correct contract abi?')
+16:31:33.24 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:31:33.24 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: ("The function 'Deposit' was not found in this contract's abi.", ' Are you sure you provided the correct contract abi?')
+16:32:56.65 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:32:56.65 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+16:34:15.80 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:34:15.80 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+16:34:54.16 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:34:54.17 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'withdraw' object has no attribute 'buildTransaction'
+16:36:50.59 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:36:50.59 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'Account' object has no attribute 'signTransaction'
+16:42:09.93 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: HTTPSConnectionPool(host='rpc.bitlayer.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+16:42:23.29 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:42:23.29 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: transaction_dict must be dict-like, got <Function withdraw(uint256) bound to (10000000000000,)>
+16:44:00.37 | ERROR | Ошибка: Unknown unit. Must be one of wei/kwei/babbage/femtoether/mwei/lovelace/picoether/gwei/shannon/nanoether/nano/szabo/microether/micro/finney/milliether/milli/ether/kether/grand/mether/gether/tether
+16:44:09.82 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:44:09.82 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: transaction_dict must be dict-like, got <Function withdraw(uint256) bound to (10000000000000,)>
+16:45:46.80 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:46:19.02 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:46:19.02 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: transaction_dict must be dict-like, got <Function withdraw(uint256) bound to (10000000000000,)>
+16:46:50.88 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:47:03.85 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: transaction_dict must be dict-like, got <Function withdraw(uint256) bound to (10000000000000,)>
+16:48:43.94 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:49:18.27 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: transaction_dict must be dict-like, got <Function withdraw(uint256) bound to (10000000000000,)>
+16:49:45.81 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:51:51.97 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:51:52.78 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: The field extraData is 97 bytes, but should be 32. It is quite likely that you are connected to a POA chain. Refer to http://web3py.readthedocs.io/en/stable/middleware.html#proof-of-authority for more details. The full extraData is: HexBytes('0x00000000000000000000000000000000000000000000000000000000000000001c8fe30adaabbfa3311fe5d58b3ee536f1cdd65256eaa2ac894adf6c07d5187e4c82ecf8a25b33e201293c803837f5cb9cd52a925672561a3ee1f14d47f4edd301')
+16:52:58.45 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:52:59.82 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'SignedTransaction' object has no attribute 'rawTransaction'
+16:53:52.32 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:56:28.01 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:57:18.32 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000064533117748911 BTC
+16:57:19.65 | INFO | Ожидание подтверждения транзакции: 0x1ea79f03af70495da720892933b7ce214f7c98fe0bb66703114616fe6ca8b3a1
+16:57:23.77 | SUCCESS | Транзакция выполнена:
+17:07:15.63 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0001960000000211 wBTC || 0.000072768017501797 BTC
+17:07:15.63 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+17:08:16.51 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0001960000000211 wBTC || 0.000072768017501797 BTC
+17:08:16.51 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+17:08:42.03 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0001960000000211 wBTC || 0.000072768017501797 BTC
+17:08:42.03 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'deposit' object has no attribute 'buildTransaction'
+17:09:13.29 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0001960000000211 wBTC || 0.000072768017501797 BTC
+17:09:15.24 | INFO | Ожидание подтверждения транзакции: 0x3054829ec6e84c84822416dc52ec84237f0fe677769811fee4f90531235a8181
+17:09:20.69 | SUCCESS | Транзакция выполнена:
+17:09:22.41 | INFO | Ожидание подтверждения транзакции: 0xd80b31c476e3f3d22ebcc85664624dfcc9eb766713b54d41a3ecdf80e5f30a0f
+17:09:27.08 | SUCCESS | Транзакция выполнена:
+17:10:24.04 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: HTTPSConnectionPool(host='rpc.bitlayer.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002A7080AE940>: Failed to resolve 'rpc.bitlayer.org' ([Errno 11001] getaddrinfo failed)"))
+17:10:52.74 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0001960000000211 wBTC || 0.000069609017059537 BTC
+17:12:02.12 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0001960000000211 wBTC || 0.000069609017059537 BTC
+17:12:03.72 | INFO | Ожидание подтверждения транзакции: 0x54154911729e816ee8a2cf62ba698d146a2947e18d7be3c38fc3acae31b5cc88
+17:12:09.93 | SUCCESS | Транзакция выполнена:
+17:13:31.42 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002060000000211 wBTC || 0.000058215116864391 BTC
+17:13:32.95 | INFO | Ожидание подтверждения транзакции: 0x89f5078a21e27c131654d677e614b44fbb2337c7a5f9338eab26ac0d6db8bf23
+17:13:38.90 | SUCCESS | Транзакция выполнена:
+18:40:27.91 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002160000000211 wBTC || 0.000046821216669245 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+18:40:29.45 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 'SignedTransaction' object has no attribute 'rawTransaction' (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+18:46:10.60 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.0002160000000211 wBTC || 0.000046821216669245 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+18:46:18.00 | SUCCESS | Транзакция выполнена: 0xa1b2de816b3ab992907d52a0fea6b03348f0f0e760b8d5705f5adf9c8c66e8b0
+18:46:24.24 | SUCCESS | Транзакция выполнена: 0x1e476dc4cd3d2f85511a977a028a56109c4e78b3eff9c0b798968288d7d75abb
+18:53:16.11 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000236390519743629 wBTC || 0.000023642896556424 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+18:53:17.72 | ERROR | Ошибка при отправке транзакции: 'SignedTransaction' object has no attribute 'rawTransaction'
+18:53:19.40 | ERROR | Ошибка при отправке транзакции: 'SignedTransaction' object has no attribute 'rawTransaction'
+18:54:07.55 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000236390519743629 wBTC || 0.000023642896556424 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+18:54:14.89 | SUCCESS | Транзакция выполнена: 0xf95de6468532d4a7d66fd9fbf35dacd3387e2504dc2908d3574a833f834c7b56 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+19:03:12.27 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.00022637962286683 wBTC || 0.000031888093186025 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+19:03:12.27 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: local variable 'amount' referenced before assignment (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+19:04:57.04 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.00022637962286683 wBTC || 0.000031888093186025 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+19:05:06.10 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x4d62280b1185cbeb3246cee86554c681f1c840d1c266418c280735eeb45af9aa для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+19:05:12.07 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x8893ca7436d61de31571f574d949180d6268573fe6e45a4a06d0194d14beb523 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №2
+19:05:18.15 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x76e2efa7af4231322c498f79ecd8fa57b8781830d5019c88f62093478d8b6061 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №3
+19:58:26.25 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.00024807292639004 wBTC || 0.000003064738664608 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+19:58:26.25 | WARNING | Недостаточно BTC для депозита на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4
+19:58:26.26 | WARNING | Недостаточно BTC для swapBTCtoWBTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4
+19:58:33.06 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x3ffcc06195b0c355642326e2a81b12f383c27c4b8bd6814f82d7c70ece9d4962 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+20:02:34.66 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000238961218307907 wBTC || 0.000010410746499543 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+20:02:37.32 | ERROR | Ошибка при отправке транзакции: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 10410746499543, tx cost 13492247768679, overshot 3081501269136'}
+20:02:45.42 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x1ac3ee3d9608c591334f5b0e007ca91a6b71bbec452964001e5ab57037d67b0f для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №2
+20:02:51.28 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x3ab5aad4da92acf15ad344a672b4de95d5dca55b9db4aafa1c51126e6b7100c6 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №3
+20:02:53.22 | INFO | Баланс кошелька 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE: 0 wBTC || 0.00013792 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.16:59100)
+20:02:53.22 | WARNING | Недостаточно wBTC для вывода на кошельке 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE
+20:03:00.02 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x591ce847c706da1ae856e73e0ad44877abf629318d66c970d5593d37db2070cd для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №1
+20:03:06.34 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x7c482510831bbdc058b612c0e7375257613c543f94fd165af36338a3a3f728ab для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №2
+20:09:39.96 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000237864369541672 wBTC || 0.000008347994823434 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+20:09:39.96 | WARNING | Недостаточно BTC для swapBTCtoWBTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4
+20:09:48.11 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0xa09e5f9efdb8db59492b149e89cfc295e644afad0e7badbe36080eaff3658c18 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+20:09:48.12 | WARNING | Недостаточно BTC для депозита на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4
+20:09:49.84 | INFO | Баланс кошелька 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE: 0.000022681536325022 wBTC || 0.000110413012999415 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.16:59100)
+20:09:57.36 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0xb74820da56be31a3537d63ebd2873851505883e371a0580ed0a416d2594309d4 для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №1
+20:10:03.12 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0xebcbe68cba6b2c1d3d3a8214cc1dedc062f59e639f9de75bc9a86632228d441a для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №2
+20:10:09.87 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0xd4b7690b195749b392d4d1fa64e8f039d339a5f52e1e559ae0024ea66e6c0355 для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №3
+20:31:04.16 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000225518754716268 wBTC || 0.00001892790940164 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+20:31:12.08 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0xc86760a7e6d62187d0f3ece0370553f173ffc23854217c613f09b23a8da84905 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+20:31:12.08 | INFO | SLEEP 42.8569781108208 seconds..
+20:31:56.44 | INFO | Баланс кошелька 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE: 0.000033902505465427 wBTC || 0.000093455893055949 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.16:59100)
+20:32:03.59 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x3445c8da09c723929896a248ca7dd2eeb940207663c2493bbf84deccb98bc43b для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №1
+20:32:03.59 | INFO | SLEEP 42.052807556992676 seconds..
+20:36:53.09 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000212556188994416 wBTC || 0.000030124774876294 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+20:37:00.75 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x741cb1b49b8dc55533e435474cde0545200ad341e48f46243a11da3e0a16eb8d для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+20:37:00.75 | INFO | SLEEP 40 seconds..
+20:37:48.25 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0xdf0d60cfb0f15511de1e831bee89ff64038eda80c95b702b4b00d8aa777cb81d для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №2
+20:37:48.25 | INFO | SLEEP 42 seconds..
+20:38:36.25 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x1a9c2f797c84d2862ebce712d31fb3fc60dac0ec57a12112af17a49292645724 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №3
+20:38:36.25 | INFO | SLEEP 35 seconds..
+20:39:12.98 | INFO | Баланс кошелька 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE: 0.000020983574729703 wBTC || 0.000104609123544475 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.16:59100)
+20:39:21.41 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0xddcb4049198b9b22363a739e7e34917287f34fbaced46367e11f0fcf7dc47ded для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №1
+20:39:21.41 | INFO | SLEEP 43 seconds..
+20:40:12.45 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0xd5e1a84f01e1b9bca127b64227d0075a6b938d889594b07c33fb79be57448681 для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №2
+20:40:12.45 | INFO | SLEEP 38 seconds..
+20:40:57.23 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x22a711d5a2ab5d314344347fe1f08ea891c4ace12c88b6d939392d77164768e1 для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №3
+20:40:57.23 | INFO | SLEEP 32 seconds..
+13:46:42.36 | INFO | Баланс кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: 0.000222328995963733 wBTC || 0.000014615817103916 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+13:46:47.64 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0xcaa59fd1392d6e18d87dd61118dd7d88b4463e2035eec77e64e6307fb3da3908 для 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - транзакция №1
+13:46:47.64 | INFO | SLEEP 35 seconds..
+13:47:23.42 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 have 1068570650956 want 13192197714136'} (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+13:47:24.74 | INFO | Баланс кошелька 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE: 0.000029249202886427 wBTC || 0.00009060734458469 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.16:59100)
+13:47:29.72 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0xe7cb2074883f04e2bf47a8e1523c1601a3760188d3937ffa364d0f41e8e37f95 для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №1
+13:47:29.72 | INFO | SLEEP 43 seconds..
+13:48:17.66 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x23a1aaacad7ae058e0c906a7f8dd5f26a1b7f9f6eea5c0f08765c2504c4a198b для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №2
+13:48:17.66 | INFO | SLEEP 39 seconds..
+13:49:02.58 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0xfbaa9dfc8126bde421d805423472507715009c409831ce6de2ac6fea0f394c81 для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №3
+13:49:02.58 | INFO | SLEEP 34 seconds..
+13:50:36.22 | ERROR | Ошибка при обработке кошелька 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4: HTTPSConnectionPool(host='rpc.bitlayer.org', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024827136F70>: Failed to resolve 'ffdddsdsd' ([Errno 11001] getaddrinfo failed)"))) (Proxy: http://ffdddsdsd)
+13:50:37.30 | INFO | Баланс кошелька 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE: 0.000038520932540711 wBTC || 0.000075599464127345 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.16:59100)
+13:50:41.72 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x708147efdf301e021df2b362d9dea93cece46752ebc7de334abb5ea331d7a4ee для 0x800a091C3Caeb3572Dc66992cA57F06243dE99BE - транзакция №1
+13:50:41.72 | INFO | SLEEP 43 seconds..
+16:52:21.43 | INFO | Баланс кошелька 0x4777237e0ee4e67E7e4DcdD70570038876178A8c: 0 wBTC || 0.00014422 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+16:52:21.43 | WARNING | Недостаточно wBTC для вывода на кошельке 0x4777237e0ee4e67E7e4DcdD70570038876178A8c
+16:52:26.81 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x205eaf3bccdae1e9a61431cc62277e22bd549a406f4c10436371c4479b403328 для 0x4777237e0ee4e67E7e4DcdD70570038876178A8c - транзакция №1
+16:52:26.81 | INFO | SLEEP 40 seconds..
+16:53:11.76 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x8d4ffc0638cb79cce21599e3f24b2e7a2341ea1f72afb403a5b399c0cda70210 для 0x4777237e0ee4e67E7e4DcdD70570038876178A8c - транзакция №2
+16:53:11.76 | INFO | SLEEP 37 seconds..
+16:53:56.65 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x3a69fae8bf8a04356f852966f292f3b875c607302be981a4d8d55c60b6829124 для 0x4777237e0ee4e67E7e4DcdD70570038876178A8c - транзакция №3
+16:53:56.65 | INFO | SLEEP 39 seconds..
+16:54:41.68 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x13f9ff06604a438071c107f667390955250eaaca7fa2c2f1c03730306d3c9fee для 0x4777237e0ee4e67E7e4DcdD70570038876178A8c - транзакция №4
+16:54:41.68 | INFO | SLEEP 42 seconds..
+16:55:29.71 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x339b30514ac8f363d17caa5c70d310db57b77927f164a12831fc7ba4b9d7f148 для 0x4777237e0ee4e67E7e4DcdD70570038876178A8c - транзакция №5
+16:55:29.72 | INFO | SLEEP 29 seconds..
+16:56:05.79 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x5a6fd197aa7fc76cbf39892a9d5264d22eece7e5e961e43efc1b515d8042b805 для 0x4777237e0ee4e67E7e4DcdD70570038876178A8c - транзакция №6
+16:56:05.79 | INFO | SLEEP 39 seconds..
+15:14:04.30 | INFO | Баланс кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: 0 wBTC || 0.00015585 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+15:14:04.30 | ERROR | Ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: Unsupported type: '<class 'coroutine'>'. Must be one of: bool, str, bytes, bytearray or int. (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+15:15:03.55 | INFO | Баланс кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: 0 wBTC || 0.00015585 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+15:15:08.92 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x48edebb97e90ed733f7defd6e28e988cd084a793ba2223813cfeb4d7329cc98d для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №1
+15:15:08.92 | INFO | SLEEP 57 seconds..
+15:16:14.57 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x8dec8423f6749d28764ecde2b48fcde2dd4768070d776a77fa019ece6a91929a для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №2
+15:16:14.57 | INFO | SLEEP 62 seconds..
+15:17:23.61 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0xe8ae1f0bbf14adea60e523de93cafaef3643b0949df6a8b68e32bdc2d18a22a7 для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №3
+15:17:23.61 | INFO | SLEEP 42 seconds..
+15:18:11.59 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0xa57db0e22a3a0452ae63c4e4baa92f04543fde3645f70df0e1d9fdd6ce5f513a для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №4
+15:18:11.59 | INFO | SLEEP 57 seconds..
+15:19:15.01 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x93bd7eebc1f6fcab9fc86f9af563f6f6dc4621ef9c95d181ffdeec7c5e2795ec для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №5
+15:19:15.01 | INFO | SLEEP 43 seconds..
+15:20:05.67 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x9588a98c4ffd7be87060f31b85c676c47ee3b6071ceff6252646141ff682a111 для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №6
+15:20:05.67 | INFO | SLEEP 45 seconds..
+15:20:50.67 | WARNING | Недостаточно wBTC для вывода на кошельке 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF
+15:23:31.88 | INFO | Баланс кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: 0.000065418492826009 wBTC || 0.000077665155386702 BTC (Proxy: http://ffdddsdsd62:7s5YkZ4SPo@217.24.76.5:59100)
+15:23:38.71 | SUCCESS | Транзакция wBTC -> BTC выполнена: 0x1475917b1af5d04ee07a154c81af8500006cae9b750db64557a687b9ee24de4e для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №1
+15:23:38.71 | INFO | SLEEP 42 seconds..
+15:24:26.76 | SUCCESS | Транзакция BTC -> wBTC выполнена: 0x773bc9eae0ccaa84318fbce0f95c34b0b7882b5aea129b1668f92df9747567ac для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №2
+15:24:26.76 | INFO | SLEEP 47 seconds..
+15:25:20.70 | SUCCESS | Транзакция BTC -> wBTC Korova выполнена: 0x3c6f9ad1fae1f5dc9079f5410d80a793fca3d1ccdfe6f99228fc206f10846b7e для 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - транзакция №3
+15:25:20.70 | INFO | SLEEP 57 seconds..
