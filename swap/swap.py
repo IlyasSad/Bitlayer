@@ -8,6 +8,7 @@ from web3 import Web3, AsyncWeb3, AsyncHTTPProvider
 from web3.middleware import ExtraDataToPOAMiddleware
 from custom_logger_swap import logging_setup
 import config_swap
+from task.task import provider_url
 
 logging_setup()
 
@@ -31,6 +32,15 @@ async def contract_abi(web3):
 with open('../txt_files/proxy.txt', 'r') as f:
     proxies = [line.strip() for line in f]
 
+async def get_working_proxy(proxies):
+    while True:
+        rand_proxy = random.choice(proxies)
+
+        web3 = AsyncWeb3(AsyncHTTPProvider(endpoint_uri=config_swap.provider_url, request_kwargs={"proxy": rand_proxy}))
+
+        if await web3.is_connected():
+            return rand_proxy
+
 
 async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
     account = Account.from_key(private_key)
@@ -44,14 +54,14 @@ async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
 
         wallet_balance_wbtc = await wBTC_contract.functions.balanceOf(address).call()
         wallet_balance_btc = await аsync_web3.eth.get_balance(address)
-        logger.info(f'Баланс кошелька {address}: {аsync_web3.from_wei(wallet_balance_wbtc, "ether")} wBTC || {аsync_web3.from_wei(wallet_balance_btc, "ether")} BTC || Кошель {index}/{total_wallets} (Proxy: {proxy})')
+        logger.info(f'Баланс кошелька {address}: {аsync_web3.from_wei(wallet_balance_wbtc, "ether")} wBTC || {аsync_web3.from_wei(wallet_balance_btc, "ether")} BTC || Кошель {index + 1}/{total_wallets} (Proxy: {proxy})')
 
         transactions = []
         for _ in range(config_swap.count_btc_wBTC_makaron):
             transactions.append((wBTC_contract.functions.deposit, 'deposit', base_amount))
         for _ in range(config_swap.count_wBTC_btc_makaron):
             transactions.append((wBTC_contract.functions.withdraw, 'withdraw', base_amount))
-        for _ in range(config_swap.count_btc_wBTC_makaron):
+        for _ in range(config_swap.count_BTC_wBTC_KOROVA):
             transactions.append((swap_contract.functions.swapBTCtoWBTC, 'swapBTCtoWBTC', base_amount))
 
         random.shuffle(transactions)
@@ -119,9 +129,9 @@ async def send_transaction(web3_instance, tx, private_key, address, transaction_
         tx_hash = await web3_instance.eth.send_raw_transaction(signed_tx.raw_transaction)
         await web3_instance.eth.wait_for_transaction_receipt(tx_hash)
         logger.success(f"Транзакция {name} выполнена: {web3_instance.to_hex(tx_hash)} для {address} - транзакция №{transaction_count}")
-        sleep = random.randint(40, 62)
+        sleep = random.randint(20, 40)
         logger.info(f'SLEEP {sleep} seconds..')
-        time.sleep(sleep)
+        await asyncio.sleep(sleep)
     except Exception as e:
         logger.error(f"Ошибка при отправке транзакции: {e}")
         with open('ploxo_key_swap.txt', 'a') as f:
@@ -138,7 +148,7 @@ async def main():
 
     try:
         for i, private_key in enumerate(keys):
-            proxy = proxies[i % len(proxies)]
+            proxy = await get_working_proxy(proxies)
             await process_wallet(private_key, base_amount, proxy, i, total_wallets)
 
     except Exception as e:

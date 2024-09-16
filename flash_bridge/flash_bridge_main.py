@@ -188,7 +188,7 @@ async def get_working_proxy(proxies):
     while True:
         rand_proxy = random.choice(proxies)
 
-        web3 = AsyncWeb3(AsyncHTTPProvider(endpoint_uri=config.eth_RPC, request_kwargs={"proxy": rand_proxy}))
+        web3 = AsyncWeb3(AsyncHTTPProvider(endpoint_uri=config.bnb_RPC, request_kwargs={"proxy": rand_proxy}))
 
         if await web3.is_connected():
             return rand_proxy

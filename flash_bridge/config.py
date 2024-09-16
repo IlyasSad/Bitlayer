@@ -1,7 +1,6 @@
 from web3 import Web3
 
 # RPC-адреса
-eth_RPC = 'https://eth.llamarpc.com'
 bnb_RPC = 'https://bsc-pokt.nodies.app'
 btl_RPC = 'https://rpc.bitlayer.org'
 
