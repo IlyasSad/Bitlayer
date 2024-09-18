@@ -7,6 +7,11 @@ import aiohttp
 from aiohttp import ClientSession
 from eth_account.messages import encode_defunct
 from web3 import Web3
+from custom_logger_task import logging_setup
+from loguru import logger
+
+
+logging_setup()
 
 PRIVATE_KEY = ''
 PUBLIC_KEY = ''

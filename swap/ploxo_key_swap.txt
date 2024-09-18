@@ -11,3 +11,178 @@ c9ba3f7c0cc3d066dd68700e186d5823bdc8dad233503ef426fde62b257062fb | 0x0eb98f2c209
 584a72d4c9518f1ecd983421b6013f097afc36d37373685c771f65f1f31f15f3 | 0x8433729FB2ba158D6c9603AB63D600347d43f87B - Недостаточно wBTC для вывода
 584a72d4c9518f1ecd983421b6013f097afc36d37373685c771f65f1f31f15f3 | 0x8433729FB2ba158D6c9603AB63D600347d43f87B - Недостаточно BTC для депозита
 584a72d4c9518f1ecd983421b6013f097afc36d37373685c771f65f1f31f15f3 | 0x8433729FB2ba158D6c9603AB63D600347d43f87B - Недостаточно BTC для депозита
+584a72d4c9518f1ecd983421b6013f097afc36d37373685c771f65f1f31f15f3 | 0x8433729FB2ba158D6c9603AB63D600347d43f87B - Недостаточно wBTC для вывода
+584a72d4c9518f1ecd983421b6013f097afc36d37373685c771f65f1f31f15f3 | 0x8433729FB2ba158D6c9603AB63D600347d43f87B - Недостаточно wBTC для вывода
+584a72d4c9518f1ecd983421b6013f097afc36d37373685c771f65f1f31f15f3 | 0x8433729FB2ba158D6c9603AB63D600347d43f87B - Недостаточно wBTC для вывода
+383e65456d573c4b7352549babe00b20095186a93e8629e598cfc2f63b1ad0c0 | 0x316225D035b0F44Cbec37fE61863e266400eCfC4 - Недостаточно wBTC для вывода
+383e65456d573c4b7352549babe00b20095186a93e8629e598cfc2f63b1ad0c0 | 0x316225D035b0F44Cbec37fE61863e266400eCfC4 - Недостаточно wBTC для вывода
+383e65456d573c4b7352549babe00b20095186a93e8629e598cfc2f63b1ad0c0 | 0x316225D035b0F44Cbec37fE61863e266400eCfC4 - Недостаточно wBTC для вывода
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - Недостаточно wBTC для вывода
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - Недостаточно wBTC для вывода
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно wBTC для вывода
+663f1c3240c2752996f0319cccdc3a2730f842a1bb18fbe14ca68ddf5a08a495 | 0xB3a730b7B89a9ccF64D38f6bCdF9301285858970 - ('execution reverted', 'no data')
+068ef617231ff3f690ff23383870295c23e72ebf4c5200e79320f4098a633e08 | 0x1EE578A9FE4340c1C63fEAB76eE8D56d8df1b0d1 - Недостаточно wBTC для вывода
+068ef617231ff3f690ff23383870295c23e72ebf4c5200e79320f4098a633e08 | 0x1EE578A9FE4340c1C63fEAB76eE8D56d8df1b0d1 - Недостаточно wBTC для вывода
+068ef617231ff3f690ff23383870295c23e72ebf4c5200e79320f4098a633e08 | 0x1EE578A9FE4340c1C63fEAB76eE8D56d8df1b0d1 - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно wBTC для вывода
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно wBTC для вывода
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно wBTC для вывода
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно wBTC для вывода
+3e1670c34362364b575d6f2f35f3ffc38cdc16921609ba71d465c65bb75dad59 | 0xA42060c1B7DbEd4E52D92EEEB43efa59A4a4829E - Недостаточно wBTC для вывода
+3e1670c34362364b575d6f2f35f3ffc38cdc16921609ba71d465c65bb75dad59 | 0xA42060c1B7DbEd4E52D92EEEB43efa59A4a4829E - Недостаточно wBTC для вывода
+ceb2dded780522a5c3065341c9577bab9e7fbf6eb694ec7de4370f0baf3ed03b | 0xFFEbb64F561Db8A860564B8565d0fa43d6b15111 - Недостаточно wBTC для вывода
+ceb2dded780522a5c3065341c9577bab9e7fbf6eb694ec7de4370f0baf3ed03b | 0xFFEbb64F561Db8A860564B8565d0fa43d6b15111 - Недостаточно wBTC для вывода
+ceb2dded780522a5c3065341c9577bab9e7fbf6eb694ec7de4370f0baf3ed03b | 0xFFEbb64F561Db8A860564B8565d0fa43d6b15111 - Недостаточно wBTC для вывода
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 have 10697291982918 want 12542600984101'}
+433452283b778eec6c21a08673dd6d4a19f37bcb967af8f6b100ddf3713a6d86 | 0xb2E92E88447Fa2d5facc48fefCD610A890370Fbc - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 25415913369, tx cost 1819950509586, overshot 1794534596217'}
+36a18a8209bba7c3b94b84315c8f10910b52df7bf712d561d30d604b869d9a5e | 0xc499f8281De09F796bC8b0b214691E1Aa0014Bc1 - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0xc499f8281De09F796bC8b0b214691E1Aa0014Bc1 have 12369925627074 want 12513312212310'}
+602f97909dba431971e29f2066bbfc4c2a9cf99c506e5868c1c57fcbdb3bd3d4 | 0xB5FcBfbDbF17A936B2b4046b504f95A118837549 - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0xB5FcBfbDbF17A936B2b4046b504f95A118837549 have 7382556691679 want 9006055203796'}
+a0b631b0bdeae62b4f8b1e4e2a7496553d1484b2165b18fb88b7d0cf545de2eb | 0x45eB9c078E134BF4c3c50aFca99aAf241A487d94 - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0x45eB9c078E134BF4c3c50aFca99aAf241A487d94 have 9586147630838 want 10079308227648'}
+8461bcbeae3e266f103a7e12bccad8f927a4578aff040804542c5834efe641f7 | 0x1a895462D67209BF0d2c67D60773f19D58dEfddb - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 14481391323320, tx cost 16231041907814, overshot 1749650584494'}
+218d2e94c333e495182098ed6b9fd392867caf794de64f575c81f0c6856c7c76 | 0x2E905AE59f0Be88aC4235B827bA53527e48F6A30 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 9538950813429, tx cost 10618202864804, overshot 1079252051375'}
+786eed19196bdf14646654604202c2faaca667a255d80bdf3d33ebb41b432131 | 0x93082a078413d8d08B0e8D527dFc920e5A772560 - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0x93082a078413d8d08B0e8D527dFc920e5A772560 have 7902100468605 want 9997250940974'}
+4512e7e6553c74924de32fa59f418375d0c548181dafe9eabde37601e61d115b | 0x94A9EaEC42e0B8478B10CF94B5eD1b9493d9c37f - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0x94A9EaEC42e0B8478B10CF94B5eD1b9493d9c37f have 2084146494168 want 9029372021980'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно BTC для депозита
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно BTC для депозита
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно BTC для депозита
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно BTC для swapBTCtoWBTC
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 798588101572, tx cost 1819950509586, overshot 1021362408014'}
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно BTC для депозита
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 798588101572, tx cost 1819950509586, overshot 1021362408014'}
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 798588101572, tx cost 1819950509586, overshot 1021362408014'}
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно BTC для депозита
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно BTC для swapBTCtoWBTC
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно BTC для депозита
+1fbbf4ae1a75111ec62e028ca7fc03d029cad20ca6df227c17f789fc6dd91d1f | 0xB104797d030b2C62F147755347eF3c6118a486D1 - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0xB104797d030b2C62F147755347eF3c6118a486D1 have 10894496112727 want 13027805171515'}
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - Недостаточно BTC для депозита
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1683935120578, tx cost 1819950509586, overshot 136015389008'}
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1683935120578, tx cost 1819950509586, overshot 136015389008'}
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - Недостаточно BTC для swapBTCtoWBTC
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - Недостаточно BTC для депозита
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1683935120578, tx cost 1819950509586, overshot 136015389008'}
+d95e522eb42d3dd4213255ef2188ef9a5421fb7606f86685219810998fd09514 | 0x7A83a1F3e2609eE02727B731A552697b77155BeB - Недостаточно BTC для депозита
+4db027f373ce89c9a1b187ed22f40411f7b6aa6cad065e46c41adf71f0c00825 | 0x29623F93d58170deee418012CC15C4cD0a5420aD - {'code': -32000, 'message': 'failed with 50000000 gas: insufficient funds for gas * price + value: address 0x29623F93d58170deee418012CC15C4cD0a5420aD have 5355290639005 want 13104823502335'}
+e50c2bca38dcbbdd11557f053d6ff7a328d4e3f67c3d057d922cc34324487a0b | 0xB36025C870A70146799C47BA0031087aa7Fb068b - Недостаточно BTC для депозита
+f8b36062f52930da5aa7650bc691fd167105b31463e0fa6f1402577da8bd91da | 0x1ebD28d5239926801Cd6629f5db7d54636bA3Cd8 - Transaction HexBytes('0x2efa2e1d6cedcf1b53560ff14f4578e78211023825a5e2761d62f39e2b7ee5db') is not in the chain after 120 seconds
+f8b36062f52930da5aa7650bc691fd167105b31463e0fa6f1402577da8bd91da | 0x1ebD28d5239926801Cd6629f5db7d54636bA3Cd8 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 11044234955244, tx cost 11668681874619, overshot 624446919375'}
+f8b36062f52930da5aa7650bc691fd167105b31463e0fa6f1402577da8bd91da | 0x1ebD28d5239926801Cd6629f5db7d54636bA3Cd8 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 11044234955244, tx cost 12362942719575, overshot 1318707764331'}
+76176188f72e957a1d54bd9508b9e4d2387eef8918335053f7d6bf7d58d88d1c | 0x51c4f2d0247Db52f02842F2A7a1eAFbcFe3fE4D1 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 10485800122777, tx cost 11810229321275, overshot 1324429198498'}
+76176188f72e957a1d54bd9508b9e4d2387eef8918335053f7d6bf7d58d88d1c | 0x51c4f2d0247Db52f02842F2A7a1eAFbcFe3fE4D1 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 10485800122777, tx cost 12374401602406, overshot 1888601479629'}
+e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55 | 0x3947d145c955727151D43E381e2521F73B5E4706 - Недостаточно BTC для депозита
+e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55 | 0x3947d145c955727151D43E381e2521F73B5E4706 - Недостаточно BTC для депозита
+e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55 | 0x3947d145c955727151D43E381e2521F73B5E4706 - Недостаточно BTC для депозита
+e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55 | 0x3947d145c955727151D43E381e2521F73B5E4706 - Недостаточно BTC для swapBTCtoWBTC
+646da337f77882d7c21f38bc685d9d421487758016893d6a109cb8270ee1c2df | 0x5cb45b1d85539505DbB9613450596DB9d68a358c - 
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1719755627167, tx cost 2507344045440, overshot 787588418273'}
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1719755627167, tx cost 2724274730996, overshot 1004519103829'}
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1719755627167, tx cost 1819950509586, overshot 100194882419'}
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1719755627167, tx cost 1819950509586, overshot 100194882419'}
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1719755627167, tx cost 2569577264448, overshot 849821637281'}
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1719755627167, tx cost 1819350509418, overshot 99594882251'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 2382205096659, overshot 642850656792'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 2597102857899, overshot 857748418032'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 2486560911355, overshot 747206471488'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Server disconnected
+0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c | 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1068570650956, tx cost 1819950509586, overshot 751379858630'}
+0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c | 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1068570650956, tx cost 1819950509586, overshot 751379858630'}
+646da337f77882d7c21f38bc685d9d421487758016893d6a109cb8270ee1c2df | 0x5cb45b1d85539505DbB9613450596DB9d68a358c - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно wBTC для вывода
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно wBTC для вывода
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно wBTC для вывода
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - Недостаточно wBTC для вывода
+c9ba3f7c0cc3d066dd68700e186d5823bdc8dad233503ef426fde62b257062fb | 0x0eb98f2c209024E81D077d102B86a211eE9660c8 - Недостаточно wBTC для вывода
+3e1670c34362364b575d6f2f35f3ffc38cdc16921609ba71d465c65bb75dad59 | 0xA42060c1B7DbEd4E52D92EEEB43efa59A4a4829E - Недостаточно wBTC для вывода
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно wBTC для вывода
+6fbb97e2c3cb4f1d0c458aa7cf510e56d54d3496bae00c4a59062daabbbab790 | 0x6606ae4A6545aE2c7806358Ff9e629D201E4681B - Недостаточно wBTC для вывода
+433452283b778eec6c21a08673dd6d4a19f37bcb967af8f6b100ddf3713a6d86 | 0xb2E92E88447Fa2d5facc48fefCD610A890370Fbc - Недостаточно wBTC для вывода
+646da337f77882d7c21f38bc685d9d421487758016893d6a109cb8270ee1c2df | 0x5cb45b1d85539505DbB9613450596DB9d68a358c - Недостаточно wBTC для вывода
+646da337f77882d7c21f38bc685d9d421487758016893d6a109cb8270ee1c2df | 0x5cb45b1d85539505DbB9613450596DB9d68a358c - Недостаточно BTC для депозита
+646da337f77882d7c21f38bc685d9d421487758016893d6a109cb8270ee1c2df | 0x5cb45b1d85539505DbB9613450596DB9d68a358c - Недостаточно BTC для депозита
+646da337f77882d7c21f38bc685d9d421487758016893d6a109cb8270ee1c2df | 0x5cb45b1d85539505DbB9613450596DB9d68a358c - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно BTC для депозита
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно wBTC для вывода
+c28d144308cb07066e54475588b6e98c1f52a12f7b2eb1803c81a95f6cd48703 | 0x8109cfa04779E705700B7ebBC876aEa9aC0d9f3d - Недостаточно BTC для депозита
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно BTC для депозита
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно wBTC для вывода
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно BTC для депозита
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно BTC для депозита
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно wBTC для вывода
+9d7d9fe9ff950eb57e0fc775a9924e029e27e349ada714e42a467f106714f2a6 | 0x5d6b5C2fbBFf14F1147F1743aDa626434C1b8B95 - Недостаточно BTC для депозита
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно wBTC для вывода
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно BTC для депозита
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно BTC для депозита
+b420155b7e79d2fb8987f12f37b8d25745d4209858e969b19e02677e4593175e | 0xf3663d877128e4abcEb009764188D368766ee78e - Недостаточно wBTC для вывода
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - Недостаточно BTC для депозита
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - Недостаточно BTC для депозита
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - Недостаточно wBTC для вывода
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - Недостаточно wBTC для вывода
+c9ba3f7c0cc3d066dd68700e186d5823bdc8dad233503ef426fde62b257062fb | 0x0eb98f2c209024E81D077d102B86a211eE9660c8 - Недостаточно BTC для депозита
+c9ba3f7c0cc3d066dd68700e186d5823bdc8dad233503ef426fde62b257062fb | 0x0eb98f2c209024E81D077d102B86a211eE9660c8 - Недостаточно BTC для депозита
+c9ba3f7c0cc3d066dd68700e186d5823bdc8dad233503ef426fde62b257062fb | 0x0eb98f2c209024E81D077d102B86a211eE9660c8 - Недостаточно wBTC для вывода
+c9ba3f7c0cc3d066dd68700e186d5823bdc8dad233503ef426fde62b257062fb | 0x0eb98f2c209024E81D077d102B86a211eE9660c8 - Недостаточно wBTC для вывода
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819950509586, overshot 80596069719'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 2757161675512, overshot 1017807235645'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 2403113953102, overshot 663759513235'}
+1fc10dde0643e4026662f140aae4ba09ff8a26eec142cdd2bb24743a7d4366b7 | 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1739354439867, tx cost 1819350509418, overshot 79996069551'}
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1522581116525, tx cost 2717466625166, overshot 1194885508641'}
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1522581116525, tx cost 1819950509586, overshot 297369393061'}
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1522581116525, tx cost 2351274723175, overshot 828693606650'}
+e751890f0d6d1c635951c1b9acd0e29d661c025b218a8f86d5a314479496fae3 | 0xA0EB6936b02B3Af5c6D9E4993125939bDd4eAed0 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1522581116525, tx cost 1819950509586, overshot 297369393061'}
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно BTC для депозита
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - Недостаточно BTC для депозита
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 798588101572, tx cost 1819350509418, overshot 1020762407846'}
+97bef6609c2d16e253d4c676a20e08945f9189ce5326d6e1798b4d8fb8c473df | 0xD8391598A57ACEDB3452808cE56D2097b2C214Db - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 798588101572, tx cost 1819350509418, overshot 1020762407846'}
+6fbb97e2c3cb4f1d0c458aa7cf510e56d54d3496bae00c4a59062daabbbab790 | 0x6606ae4A6545aE2c7806358Ff9e629D201E4681B - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1293337376324, tx cost 1819350509418, overshot 526013133094'}
+6fbb97e2c3cb4f1d0c458aa7cf510e56d54d3496bae00c4a59062daabbbab790 | 0x6606ae4A6545aE2c7806358Ff9e629D201E4681B - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1293337376324, tx cost 2337777869082, overshot 1044440492758'}
+6fbb97e2c3cb4f1d0c458aa7cf510e56d54d3496bae00c4a59062daabbbab790 | 0x6606ae4A6545aE2c7806358Ff9e629D201E4681B - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1293337376324, tx cost 2386284877035, overshot 1092947500711'}
+433452283b778eec6c21a08673dd6d4a19f37bcb967af8f6b100ddf3713a6d86 | 0xb2E92E88447Fa2d5facc48fefCD610A890370Fbc - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 25415913369, tx cost 1819350509418, overshot 1793934596049'}
+433452283b778eec6c21a08673dd6d4a19f37bcb967af8f6b100ddf3713a6d86 | 0xb2E92E88447Fa2d5facc48fefCD610A890370Fbc - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 25415913369, tx cost 1819350509418, overshot 1793934596049'}
+433452283b778eec6c21a08673dd6d4a19f37bcb967af8f6b100ddf3713a6d86 | 0xb2E92E88447Fa2d5facc48fefCD610A890370Fbc - Недостаточно BTC для депозита
+433452283b778eec6c21a08673dd6d4a19f37bcb967af8f6b100ddf3713a6d86 | 0xb2E92E88447Fa2d5facc48fefCD610A890370Fbc - Недостаточно BTC для депозита
+a0b631b0bdeae62b4f8b1e4e2a7496553d1484b2165b18fb88b7d0cf545de2eb | 0x45eB9c078E134BF4c3c50aFca99aAf241A487d94 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 2345858791886, tx cost 2601444558004, overshot 255585766118'}
+a0b631b0bdeae62b4f8b1e4e2a7496553d1484b2165b18fb88b7d0cf545de2eb | 0x45eB9c078E134BF4c3c50aFca99aAf241A487d94 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1572189937121, tx cost 1819350509418, overshot 247160572297'}
+a0b631b0bdeae62b4f8b1e4e2a7496553d1484b2165b18fb88b7d0cf545de2eb | 0x45eB9c078E134BF4c3c50aFca99aAf241A487d94 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1572189937121, tx cost 2614479121781, overshot 1042289184660'}
+ed54af6943f2344f45419662e873d4a75e3d58e23099d731f8890f42687dbde3 | 0xB8A67b3A0cdDCA3f4DeB25c706cb423450B13e7F - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1599583604079, tx cost 1819350509418, overshot 219766905339'}
+ed54af6943f2344f45419662e873d4a75e3d58e23099d731f8890f42687dbde3 | 0xB8A67b3A0cdDCA3f4DeB25c706cb423450B13e7F - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1599583604079, tx cost 2486934240744, overshot 887350636665'}
+ed54af6943f2344f45419662e873d4a75e3d58e23099d731f8890f42687dbde3 | 0xB8A67b3A0cdDCA3f4DeB25c706cb423450B13e7F - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1599583604079, tx cost 1819350509418, overshot 219766905339'}
+ed54af6943f2344f45419662e873d4a75e3d58e23099d731f8890f42687dbde3 | 0xB8A67b3A0cdDCA3f4DeB25c706cb423450B13e7F - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1599583604079, tx cost 1819950509586, overshot 220366905507'}
+ed54af6943f2344f45419662e873d4a75e3d58e23099d731f8890f42687dbde3 | 0xB8A67b3A0cdDCA3f4DeB25c706cb423450B13e7F - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1599583604079, tx cost 2550113093343, overshot 950529489264'}
+ed54af6943f2344f45419662e873d4a75e3d58e23099d731f8890f42687dbde3 | 0xB8A67b3A0cdDCA3f4DeB25c706cb423450B13e7F - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1599583604079, tx cost 1819350509418, overshot 219766905339'}
+7a925db85bca5fb1cd01acd4a9d87cd195acc71a5fe7141bf2dcc3c308397466 | 0x70E37d6561622BE4eDE6EFA0F058aC2C865fab1C - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1705936309617, tx cost 2758239092174, overshot 1052302782557'}
+7a925db85bca5fb1cd01acd4a9d87cd195acc71a5fe7141bf2dcc3c308397466 | 0x70E37d6561622BE4eDE6EFA0F058aC2C865fab1C - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1705936309617, tx cost 1819950509586, overshot 114014199969'}
+7a925db85bca5fb1cd01acd4a9d87cd195acc71a5fe7141bf2dcc3c308397466 | 0x70E37d6561622BE4eDE6EFA0F058aC2C865fab1C - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1705936309617, tx cost 2576697652240, overshot 870761342623'}
+f6bfa7a3bff596e3f2c50024ffa7c9b19455f35f5c492f3d2756b398afbb4d03 | 0x2A20fC92928365F8d4228509f80E0F57A5ba92B1 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1256462708500, tx cost 2327455012958, overshot 1070992304458'}
+f6bfa7a3bff596e3f2c50024ffa7c9b19455f35f5c492f3d2756b398afbb4d03 | 0x2A20fC92928365F8d4228509f80E0F57A5ba92B1 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1256462708500, tx cost 1819950509586, overshot 563487801086'}
+f6bfa7a3bff596e3f2c50024ffa7c9b19455f35f5c492f3d2756b398afbb4d03 | 0x2A20fC92928365F8d4228509f80E0F57A5ba92B1 - Недостаточно BTC для депозита
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1632258882877, tx cost 2695645246318, overshot 1063386363441'}
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1632258882877, tx cost 1819950509586, overshot 187691626709'}
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1632258882877, tx cost 2610346188112, overshot 978087305235'}
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1632258882877, tx cost 1819950509586, overshot 187691626709'}
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - Недостаточно BTC для депозита
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 1632258882877, tx cost 1819950509586, overshot 187691626709'}
+d60fb5eff097e44ce0a9f4f0ce40487f2966507d3c01351e757e90052dbc04c6 | 0x81a3602023a52b1dA4B717B039f13eDCaAf5BEC7 - Недостаточно BTC для депозита
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 553286519007, tx cost 1819950509586, overshot 1266663990579'}
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - Недостаточно BTC для депозита
+ad96a8f5381ae04424ec00ec5034cdbb1693305778a8ed611508fb5d0fe073cf | 0x0d50DA43983cb0e064e2e59ad615F29Ff2D337aF - 
+Could not identify the intended function with name `withdraw`, positional arguments with type(s) `(float)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `withdraw`: ['withdraw(uint256)']
+Function invocation failed due to no matching argument types.
+ad96a8f5381ae04424ec00ec5034cdbb1693305778a8ed611508fb5d0fe073cf | 0x0d50DA43983cb0e064e2e59ad615F29Ff2D337aF - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 695754656566, tx cost 1819950509586, overshot 1124195853020'}
+ad96a8f5381ae04424ec00ec5034cdbb1693305778a8ed611508fb5d0fe073cf | 0x0d50DA43983cb0e064e2e59ad615F29Ff2D337aF - Недостаточно BTC для депозита
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 553286519007, tx cost 1819950509586, overshot 1266663990579'}
+5f8f5631d77b59b2b7265221393500c4581a18397659288ca3a15e668ce5e83e | 0xEc259B7B6c5080E8705CF730B137328cBA066F7e - {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 553286519007, tx cost 1819950509586, overshot 1266663990579'}

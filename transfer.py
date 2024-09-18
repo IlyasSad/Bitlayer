@@ -11,7 +11,7 @@ from flash_bridge.custom_logger import logging_setup
 logging_setup()
 
 # Установка соединения с блокчейном
-web3 = Web3(Web3.HTTPProvider(config.bnb_RPC))
+web3 = Web3(Web3.HTTPProvider(config.btl_RPC))
 
 # Загрузка ABI для USDT
 with open('json_file/usdt_Abi.json', 'r') as file:
@@ -21,7 +21,7 @@ with open('json_file/usdt_Abi.json', 'r') as file:
 usdt_contract = web3.eth.contract(address=config.usdt, abi=usdt_abi)
 
 # Адрес получателя
-recipient_address = "0x59a5Bc61BF9aAa931862Ed54EF80c7C56313dfD7"  # Замените на адрес получателя
+recipient_address = "0x02c806AA66655b5D2C1A7A1978128768d75e45E5"  # Замените на адрес получателя
 
 async def send_usdt(private_key, amount):
     """
@@ -42,35 +42,33 @@ async def send_usdt(private_key, amount):
         # gas_price = web3.eth.gas_price
         # max_fee_per_gas = int(gas_price * 1.2)
         # max_priority_fee_per_gas = web3.to_wei('3', 'gwei')
+        nonce =  web3.eth.get_transaction_count(address)
 
-        transaction = usdt_contract.functions.transfer(
-            web3.to_checksum_address(recipient_address),
-            int(amount * 10 ** 18)
-        ).build_transaction({
-            'nonce': web3.eth.get_transaction_count(address),
-            'from': address,
-            'gasPrice': web3.eth.gas_price + 20000,
+        tx = {
+            "nonce": nonce,
+            "to": recipient_address,
+            "value": web3.to_wei(amount, 'ether'),
+            "gas": 21000,
+            "gasPrice": 50200000,
+            "chainId": 200901
+        }
 
-        })
+        signed_tx = web3.eth.account.sign_transaction(tx, private_key)
+        tx_hash =  web3.eth.send_raw_transaction(signed_tx.raw_transaction)
+        print(f"Транзакция отправлена: {tx_hash.hex()}")
 
-        # Подписание транзакции
-        signed_txn = web3.eth.account.sign_transaction(transaction, private_key=private_key)
-
-        # Отправка транзакции
-        tx_hash = web3.eth.send_raw_transaction(signed_txn.raw_transaction)
-        logger.info(f'Транзакция отправлена, хэш: {web3.to_hex(tx_hash)}')
-
-        # Ожидание подтверждения
         receipt = web3.eth.wait_for_transaction_receipt(tx_hash)
-        logger.info(f'Транзакция подтверждена в блоке {receipt.blockNumber}')
+        if receipt['status'] == 1:
+            print(f"Транзакция успешна: {tx_hash.hex()}")
+
 
     except Exception as e:
         logger.error(f'Ошибка при отправке транзакции: {e}')
 
 
 async def main():
-    private_key = "0x8f03d8462648ec145c606cb62136d232b4f164acbb751635800749dd86dae140"  # Замените на ваш приватный ключ
-    amount = 0.0001  #  Количество USDT для отправки
+    private_key = '0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c'  # Замените на ваш приватный ключ
+    amount = 0.00001  #
 
     await send_usdt(private_key, amount)
 
