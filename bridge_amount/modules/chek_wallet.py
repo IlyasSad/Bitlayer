@@ -6,9 +6,9 @@ from win32comext.adsi.demos.scp import logger
 
 async def check_usdt_balance():
     exchange = ccxt.bitget({
-        'apiKey': 'bg_c580e9a471678920e86ae6e7829c37fc',
-        'secret': 'd46f731b07bb8cda61f4d2d3607fb60546dca2cc8d308a65076235bac11d3a9d',
-        'password': 'qweasdzxc',  # Include if required
+        'apiKey': '',
+        'secret': '',
+        'password': '',  # Include if required
     })
     try:
         while True:
