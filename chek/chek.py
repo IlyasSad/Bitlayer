@@ -1,6 +1,8 @@
 import asyncio
 import json
+import logging
 import random
+import sys
 from asyncio import Semaphore
 from decimal import Decimal
 
@@ -13,6 +15,7 @@ from openpyxl.styles import PatternFill
 from openpyxl.utils import get_column_letter
 from web3 import AsyncWeb3, AsyncHTTPProvider
 
+logging.getLogger('asyncio').setLevel(logging.CRITICAL)
 
 url = 'https://www.bitlayer.org/me?_data=routes%2F%28%24lang%29._app%2B%2Fme%2B%2F_index'
 wBTC_contract_address = "0xfF204e2681A6fA0e2C3FaDe68a1B28fb90E4Fc5F"
@@ -20,7 +23,8 @@ wBTC_abi = [{"constant": True, "inputs": [{"name": "_owner", "type": "address"}]
              "name": "balanceOf", "outputs": [{"name": "balance", "type": "uint256"}], "payable": False,
              "stateMutability": "view", "type": "function"}]
 
-
+if sys.platform.startswith('win'):
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 async def make_get_request(session, url, headers=None, proxy=None, params=None):
     async with session.get(url, headers=headers, proxy=proxy, params=params) as response:
         response.raise_for_status()
@@ -136,7 +140,7 @@ async def get_working_proxy(proxies):
 
 async def main():
     all_results = []
-    semaphore = Semaphore(1000)
+    semaphore = Semaphore(40)
 
     async def process_account_with_semaphore(session, private, proxy, i):
         async with semaphore:
@@ -144,10 +148,9 @@ async def main():
             return await check_account(session, private, proxy)
 
     async with aiohttp.ClientSession() as session:
-        proxy = await get_working_proxy(proxies)
-        tasks = [process_account_with_semaphore(session, private, proxy, i) for i, private in enumerate(privates)]
+        tasks = [process_account_with_semaphore(session, private, random.choice(proxies), i) for i, private in enumerate(privates)]
         all_results = await asyncio.gather(*tasks)
-
+    print('________________________')
     wb = openpyxl.Workbook()
     sheet = wb.active
     print('10%')
@@ -189,7 +192,7 @@ async def main():
             for col_index, task_completed in enumerate(row['completedTasks'].values()):
                 cell = sheet.cell(row=row_index + 2, column=len(values) - len(
                     row['completedTasks']) + col_index + 1)
-                if task_completed:
+                if cell.value:  # Используем cell.value для получения значения
                     cell.fill = PatternFill(start_color="00FF00", end_color="00FF00", fill_type="solid")
                 else:
                     cell.fill = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")

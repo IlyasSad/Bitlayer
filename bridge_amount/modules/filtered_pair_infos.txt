@@ -1,0 +1,24 @@
+[
+    {
+        "token_name": "USDT",
+        "from_chain_name": "BitlayerMainnet",
+        "to_chain_name": "BnbMainnet",
+        "from_chain_id": "200901",
+        "to_chain_id": "56",
+        "from_token_address": "0xfe9f969faf8Ad72a83b761138bF25dE87eFF9DD2",
+        "to_token_address": "0x55d398326f99059fF775485246999027B3197955",
+        "from_token_decimals": 6,
+        "to_token_decimals": 18,
+        "min_value": {
+            "raw_value": "1000000",
+            "ui_value": "1",
+            "decimals": 6
+        },
+        "max_value": {
+            "raw_value": "300000000",
+            "ui_value": "300",
+            "decimals": 6
+        },
+        "contract_address": "0xC626845BF4E6a5802Ef774dA0B3DfC6707F015F7"
+    }
+]

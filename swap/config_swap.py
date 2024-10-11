@@ -10,10 +10,10 @@ swap_abi_file = '../json_file/Swap_ABI.json'
 wbtc_abi_file = '../json_file/wBTC_Abi.json'
 btc_abi_file = '../json_file/BTC_ABI.json'
 
-count_btc_wBTC_makaron = 2
+count_btc_wBTC_makaron = 0
 count_wBTC_btc_makaron = 0
 count_BTC_wBTC_KOROVA = 0
 
 amount = 0.000001
 
-potok = 10
+potok = 15

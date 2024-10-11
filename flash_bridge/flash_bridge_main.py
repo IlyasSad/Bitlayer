@@ -1,7 +1,7 @@
 import asyncio
 import random
 import re
-import time
+import sys
 
 import aiohttp
 from eth_account import Account
@@ -21,6 +21,8 @@ with open(config.usdt_abi_file, 'r') as file:
 success_count = 0
 failure_count = 0
 
+if sys.platform.startswith('win'):
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 async def check_balance_usdt(address, usdt_contract):
     balance = await usdt_contract.functions.balanceOf(address).call()

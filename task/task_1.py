@@ -14,7 +14,7 @@ from config_task import RPC_URL, TASK_IDS
 logging_setup()
 
 # Максимальное количество одновременных запросов
-MAX_CONCURRENT_REQUESTS = 10  # Настройте это значение по своему усмотрению
+MAX_CONCURRENT_REQUESTS = 50  # Настройте это значение по своему усмотрению
 
 semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
 

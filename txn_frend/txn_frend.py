@@ -7,7 +7,7 @@ from web3 import AsyncWeb3, AsyncHTTPProvider
 
 # Конфигурация
 RPC_URL = "https://rpc.bitlayer.org"
-MAX_CONCURRENT_TRANSACTIONS = 5  # Максимальное количество одновременных транзакций
+MAX_CONCURRENT_TRANSACTIONS = 10  # Максимальное количество одновременных транзакций
 
 semaphore = Semaphore(MAX_CONCURRENT_TRANSACTIONS)
 
@@ -76,7 +76,7 @@ async def main():
         recipient_key = random.choice(available_recipients)
         recipient_address = Account.from_key(recipient_key).address
 
-        amount_eth = random.uniform(0.000001, 0.00001)
+        amount_eth = random.uniform(0.000001, 0.000002)
 
         # Создаем задачу для отправки транзакции
         task = asyncio.create_task(send_transaction(аsync_web3, sender_key, recipient_address, amount_eth))
@@ -84,7 +84,7 @@ async def main():
 
         available_recipients.append(sender_key)
 
-    await asyncio.gather(*tasks) # Ожидание завершения всех задач
+    await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
     asyncio.run(main())

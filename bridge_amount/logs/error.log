@@ -1,0 +1,180 @@
+2024-10-02T16:53:21.359202+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:53:21.359202+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:55:55.108087+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:55:55.108087+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:56:49.846867+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:56:49.846867+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:57:56.403508+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T16:57:56.403508+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T17:10:34.122697+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T17:10:34.122697+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T17:11:24.346067+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T17:11:24.346067+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T17:12:01.966407+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T17:12:01.966407+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T18:14:02.278488+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T18:14:02.278488+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T18:18:07.920246+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-02T18:18:07.920246+0300 ERROR Недостаточно BTC на кошельке 0x43Ce9ED0191F719aFa79EfBdD9d03B3e6581FBE4 для выполнения транзакции.
+2024-10-03T13:42:14.172693+0300 ERROR Ошибка при получении ожидаемого количества USDT: 
+Could not identify the intended function with name `tryQuerySwap`, positional arguments with type(s) `(address,address,coroutine)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `tryQuerySwap`: ['tryQuerySwap(address,address,uint256)']
+Function invocation failed due to no matching argument types.
+2024-10-03T13:42:14.172693+0300 ERROR Ошибка при получении ожидаемого количества USDT: 
+Could not identify the intended function with name `tryQuerySwap`, positional arguments with type(s) `(address,address,coroutine)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `tryQuerySwap`: ['tryQuerySwap(address,address,uint256)']
+Function invocation failed due to no matching argument types.
+2024-10-03T13:42:14.172693+0300 ERROR Ошибка при получении ожидаемого количества USDT: 
+Could not identify the intended function with name `tryQuerySwap`, positional arguments with type(s) `(address,address,coroutine)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `tryQuerySwap`: ['tryQuerySwap(address,address,uint256)']
+Function invocation failed due to no matching argument types.
+2024-10-03T15:50:07.618769+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: [Errno 2] No such file or directory: 'abi/erc20_abi.json'
+2024-10-03T15:50:07.618769+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: [Errno 2] No such file or directory: 'abi/erc20_abi.json'
+2024-10-03T15:50:07.618769+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: [Errno 2] No such file or directory: 'abi/erc20_abi.json'
+2024-10-03T15:55:33.712190+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 
+Could not identify the intended function with name `transfer`, positional arguments with type(s) `(str,coroutine)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `transfer`: ['transfer(address,uint256)']
+Function invocation failed due to no matching argument types.
+2024-10-03T15:55:33.712190+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 
+Could not identify the intended function with name `transfer`, positional arguments with type(s) `(str,coroutine)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `transfer`: ['transfer(address,uint256)']
+Function invocation failed due to no matching argument types.
+2024-10-03T15:55:33.712190+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 
+Could not identify the intended function with name `transfer`, positional arguments with type(s) `(str,coroutine)` and keyword arguments with type(s) `{}`.
+Found 1 function(s) with the name `transfer`: ['transfer(address,uint256)']
+Function invocation failed due to no matching argument types.
+2024-10-03T15:58:39.348826+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: ('web3.py only accepts checksum addresses. The software that gave you this non-checksum address should be considered unsafe, please file it as a bug on their platform. Try using an ENS name instead. Or, if you must accept lower safety, use Web3.to_checksum_address(lower_case_address).', '0x2eafa87a57e3299568eb5ff1fd9832b833aaadd9')
+2024-10-03T15:58:39.348826+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: ('web3.py only accepts checksum addresses. The software that gave you this non-checksum address should be considered unsafe, please file it as a bug on their platform. Try using an ENS name instead. Or, if you must accept lower safety, use Web3.to_checksum_address(lower_case_address).', '0x2eafa87a57e3299568eb5ff1fd9832b833aaadd9')
+2024-10-03T15:58:39.348826+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: ('web3.py only accepts checksum addresses. The software that gave you this non-checksum address should be considered unsafe, please file it as a bug on their platform. Try using an ENS name instead. Or, if you must accept lower safety, use Web3.to_checksum_address(lower_case_address).', '0x2eafa87a57e3299568eb5ff1fd9832b833aaadd9')
+2024-10-03T16:00:34.013015+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: ('web3.py only accepts checksum addresses. The software that gave you this non-checksum address should be considered unsafe, please file it as a bug on their platform. Try using an ENS name instead. Or, if you must accept lower safety, use Web3.to_checksum_address(lower_case_address).', '0x2eafa87a57e3299568eb5ff1fd9832b833aaadd9')
+2024-10-03T16:00:34.013015+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: ('web3.py only accepts checksum addresses. The software that gave you this non-checksum address should be considered unsafe, please file it as a bug on their platform. Try using an ENS name instead. Or, if you must accept lower safety, use Web3.to_checksum_address(lower_case_address).', '0x2eafa87a57e3299568eb5ff1fd9832b833aaadd9')
+2024-10-03T16:00:34.013015+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: ('web3.py only accepts checksum addresses. The software that gave you this non-checksum address should be considered unsafe, please file it as a bug on their platform. Try using an ENS name instead. Or, if you must accept lower safety, use Web3.to_checksum_address(lower_case_address).', '0x2eafa87a57e3299568eb5ff1fd9832b833aaadd9')
+2024-10-03T16:01:25.676154+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 'AsyncWeb3' object has no attribute 'toChecksumAddress'
+2024-10-03T16:01:25.676154+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 'AsyncWeb3' object has no attribute 'toChecksumAddress'
+2024-10-03T16:01:25.676154+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 'AsyncWeb3' object has no attribute 'toChecksumAddress'
+2024-10-03T16:01:46.257623+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 'SignedTransaction' object has no attribute 'rawTransaction'
+2024-10-03T16:01:46.257623+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 'SignedTransaction' object has no attribute 'rawTransaction'
+2024-10-03T16:01:46.257623+0300 ERROR Произошла ошибка при обработке кошелька 0x61809437c9c3fbf5a3835d9b411a2843a7fe48eabdf9b443fc3c06b0bc01067c: 'SignedTransaction' object has no attribute 'rawTransaction'
+2024-10-04T14:25:15.156527+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:25:15.156527+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:25:15.156527+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:26:42.873762+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:26:42.873762+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:26:42.873762+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:52:52.042227+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:52:52.042227+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:52:52.042227+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:56:31.475281+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:56:31.475281+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-04T14:56:31.475281+0300 ERROR Ошибка при отправке USDT: Недостаточно USDT для отправки
+2024-10-07T16:06:07.429385+0300 ERROR Произошла ошибка при обработке кошелька e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55: 500, message='Internal Server Error', url='https://www.bitlayer.org/flash-bridge/order?_data=routes/($lang)._app%2B/flash-bridge%2B/order'
+2024-10-07T16:06:07.429385+0300 ERROR Произошла ошибка при обработке кошелька e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55: 500, message='Internal Server Error', url='https://www.bitlayer.org/flash-bridge/order?_data=routes/($lang)._app%2B/flash-bridge%2B/order'
+2024-10-07T16:06:07.429385+0300 ERROR Произошла ошибка при обработке кошелька e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55: 500, message='Internal Server Error', url='https://www.bitlayer.org/flash-bridge/order?_data=routes/($lang)._app%2B/flash-bridge%2B/order'
+2024-10-09T15:25:23.563985+0300 ERROR Ошибка BITGET
+2024-10-09T15:25:23.563985+0300 ERROR Ошибка BITGET
+2024-10-09T15:25:23.563985+0300 ERROR Ошибка BITGET
+2024-10-09T15:26:46.883523+0300 ERROR Ошибка BITGET
+2024-10-09T15:26:46.883523+0300 ERROR Ошибка BITGET
+2024-10-09T15:26:46.883523+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:01.537626+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:01.537626+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:01.537626+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:08.976273+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:08.976273+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:08.976273+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:31.417965+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:31.417965+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:31.417965+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:51.744100+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:51.744100+0300 ERROR Ошибка BITGET
+2024-10-09T15:30:51.744100+0300 ERROR Ошибка BITGET
+2024-10-09T15:33:16.836539+0300 ERROR Ошибка BITGET
+2024-10-09T15:33:16.836539+0300 ERROR Ошибка BITGET
+2024-10-09T15:33:16.836539+0300 ERROR Ошибка BITGET
+2024-10-09T15:34:00.927631+0300 ERROR Ошибка BITGET
+2024-10-09T15:34:00.927631+0300 ERROR Ошибка BITGET
+2024-10-09T15:34:00.927631+0300 ERROR Ошибка BITGET
+2024-10-09T15:34:45.501595+0300 ERROR Ошибка BITGET
+2024-10-09T15:34:45.501595+0300 ERROR Ошибка BITGET
+2024-10-09T15:34:45.501595+0300 ERROR Ошибка BITGET
+2024-10-09T15:35:04.773544+0300 ERROR Ошибка BITGET
+2024-10-09T15:35:04.773544+0300 ERROR Ошибка BITGET
+2024-10-09T15:35:04.773544+0300 ERROR Ошибка BITGET
+2024-10-09T15:38:41.236890+0300 ERROR Ошибка получения данных: json: cannot unmarshal number into Go struct field GetBuildTxRequest.ui_value of type string
+2024-10-09T15:38:41.236890+0300 ERROR Ошибка получения данных: json: cannot unmarshal number into Go struct field GetBuildTxRequest.ui_value of type string
+2024-10-09T15:38:41.236890+0300 ERROR Ошибка получения данных: json: cannot unmarshal number into Go struct field GetBuildTxRequest.ui_value of type string
+2024-10-09T15:47:16.087597+0300 ERROR Произошла ошибка при обработке кошелька e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55: 'NoneType' object is not subscriptable
+2024-10-09T15:47:16.087597+0300 ERROR Произошла ошибка при обработке кошелька e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55: 'NoneType' object is not subscriptable
+2024-10-09T15:47:16.087597+0300 ERROR Произошла ошибка при обработке кошелька e4a9ab2d2a5e925576f484cb54a13da000e6379f1cb6bd593080e54728f86d55: 'NoneType' object is not subscriptable
+2024-10-09T15:49:59.885715+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:49:59.885715+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:49:59.885715+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:52:11.375081+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:52:11.375081+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:52:11.375081+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:52:13.280726+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 10000001400000, overshot 10000001400000'}
+2024-10-09T15:52:13.280726+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 10000001400000, overshot 10000001400000'}
+2024-10-09T15:52:13.280726+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 10000001400000, overshot 10000001400000'}
+2024-10-09T15:54:37.967254+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:54:37.967254+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:54:37.967254+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:57:12.699423+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:57:12.699423+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:57:12.699423+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:57:36.433613+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:57:36.433613+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T15:57:36.433613+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: 'NoneType' object is not subscriptable
+2024-10-09T17:02:56.452801+0300 ERROR Ошибка BITGET
+2024-10-09T17:02:56.452801+0300 ERROR Ошибка BITGET
+2024-10-09T17:02:56.452801+0300 ERROR Ошибка BITGET
+2024-10-09T17:09:32.470726+0300 ERROR Ошибка при отправке USDT: {'code': -32000, 'message': 'gas required exceeds allowance (6451)'}
+2024-10-09T17:09:32.470726+0300 ERROR Ошибка при отправке USDT: {'code': -32000, 'message': 'gas required exceeds allowance (6451)'}
+2024-10-09T17:09:32.470726+0300 ERROR Ошибка при отправке USDT: {'code': -32000, 'message': 'gas required exceeds allowance (6451)'}
+2024-10-09T17:18:53.423742+0300 ERROR Transfer неуспешен: 0x8383f6ab0b9db63078b22618567253790c8e182590a85ae6184b302608bec6eb
+2024-10-09T17:18:53.423742+0300 ERROR Transfer неуспешен: 0x8383f6ab0b9db63078b22618567253790c8e182590a85ae6184b302608bec6eb
+2024-10-09T17:18:53.423742+0300 ERROR Transfer неуспешен: 0x8383f6ab0b9db63078b22618567253790c8e182590a85ae6184b302608bec6eb
+2024-10-09T17:42:59.584242+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: to_wei() missing 1 required positional argument: 'unit'
+2024-10-09T17:42:59.584242+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: to_wei() missing 1 required positional argument: 'unit'
+2024-10-09T17:42:59.584242+0300 ERROR Произошла ошибка при обработке кошелька 0x3947d145c955727151D43E381e2521F73B5E4706: to_wei() missing 1 required positional argument: 'unit'
+2024-10-09T18:18:59.359721+0300 ERROR Ошибка BITGET
+2024-10-09T18:18:59.359721+0300 ERROR Ошибка BITGET
+2024-10-09T18:18:59.359721+0300 ERROR Ошибка BITGET
+2024-10-09T18:22:14.501963+0300 ERROR Transfer неуспешен: 0xbe7b16718eb9376ca03683d4b204af500e8f72097e47705ce8364a94163cb88d
+2024-10-09T18:22:14.501963+0300 ERROR Transfer неуспешен: 0xbe7b16718eb9376ca03683d4b204af500e8f72097e47705ce8364a94163cb88d
+2024-10-09T18:22:14.501963+0300 ERROR Transfer неуспешен: 0xbe7b16718eb9376ca03683d4b204af500e8f72097e47705ce8364a94163cb88d
+2024-10-09T18:28:26.808569+0300 ERROR Transfer неуспешен: 0x79c629b47a1874bb847172959241d5ea2541ae3e0df038557619f59bd0305f4e
+2024-10-09T18:28:26.808569+0300 ERROR Transfer неуспешен: 0x79c629b47a1874bb847172959241d5ea2541ae3e0df038557619f59bd0305f4e
+2024-10-09T18:28:26.808569+0300 ERROR Transfer неуспешен: 0x79c629b47a1874bb847172959241d5ea2541ae3e0df038557619f59bd0305f4e
+2024-10-10T10:56:06.383490+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 5600000000000, tx cost 10000001400000, overshot 4400001400000'}
+2024-10-10T10:56:06.383490+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 5600000000000, tx cost 10000001400000, overshot 4400001400000'}
+2024-10-10T10:56:06.383490+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 5600000000000, tx cost 10000001400000, overshot 4400001400000'}
+2024-10-10T11:07:25.996694+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:07:25.996694+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:07:25.996694+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:07:31.664057+0300 ERROR Произошла ошибка при обработке кошелька 0x8ED8d1878D8D28F5D9a899A07D5363E2389178e1: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:07:31.664057+0300 ERROR Произошла ошибка при обработке кошелька 0x8ED8d1878D8D28F5D9a899A07D5363E2389178e1: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:07:31.664057+0300 ERROR Произошла ошибка при обработке кошелька 0x8ED8d1878D8D28F5D9a899A07D5363E2389178e1: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:11:29.759803+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:11:29.759803+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T11:11:29.759803+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3033299640662, tx cost 4000000560000, overshot 966700919338'}
+2024-10-10T12:33:34.842341+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 2570849113919, tx cost 4000000560000, overshot 1429151446081'}
+2024-10-10T12:33:34.842341+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 2570849113919, tx cost 4000000560000, overshot 1429151446081'}
+2024-10-10T12:33:34.842341+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 2570849113919, tx cost 4000000560000, overshot 1429151446081'}
+2024-10-10T12:55:06.649962+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: Cannot connect to host owlto.finance:443 ssl:default [None]
+2024-10-10T12:55:06.649962+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: Cannot connect to host owlto.finance:443 ssl:default [None]
+2024-10-10T12:55:06.649962+0300 ERROR Произошла ошибка при обработке кошелька 0xe5393396Ef5F7AE014E830AC92B98406978d098C: Cannot connect to host owlto.finance:443 ssl:default [None]
+2024-10-10T13:51:41.105375+0300 ERROR Ошибка при отправке USDT: {'code': -32000, 'message': 'gas required exceeds allowance (0)'}
+2024-10-10T13:51:41.105375+0300 ERROR Ошибка при отправке USDT: {'code': -32000, 'message': 'gas required exceeds allowance (0)'}
+2024-10-10T13:51:41.105375+0300 ERROR Ошибка при отправке USDT: {'code': -32000, 'message': 'gas required exceeds allowance (0)'}
+2024-10-10T14:14:19.848881+0300 ERROR Произошла ошибка при обработке кошелька 0x6941B69C6f83f17F516e13F54353a56f8B09201A: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-10-10T14:14:19.848881+0300 ERROR Произошла ошибка при обработке кошелька 0x6941B69C6f83f17F516e13F54353a56f8B09201A: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-10-10T14:14:19.848881+0300 ERROR Произошла ошибка при обработке кошелька 0x6941B69C6f83f17F516e13F54353a56f8B09201A: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-10-10T15:24:21.356264+0300 ERROR Ошибка BITGET
+2024-10-10T15:24:21.356264+0300 ERROR Ошибка BITGET
+2024-10-10T15:24:21.356264+0300 ERROR Ошибка BITGET
+2024-10-10T15:48:58.085517+0300 ERROR Произошла ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3758023541129, tx cost 4000000560000, overshot 241977018871'}
+2024-10-10T15:48:58.085517+0300 ERROR Произошла ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3758023541129, tx cost 4000000560000, overshot 241977018871'}
+2024-10-10T15:48:58.085517+0300 ERROR Произошла ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3758023541129, tx cost 4000000560000, overshot 241977018871'}
+2024-10-10T15:54:33.417164+0300 ERROR Произошла ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3758023541129, tx cost 4000000560000, overshot 241977018871'}
+2024-10-10T15:54:33.417164+0300 ERROR Произошла ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3758023541129, tx cost 4000000560000, overshot 241977018871'}
+2024-10-10T15:54:33.417164+0300 ERROR Произошла ошибка при обработке кошелька 0x26fcC65ae8ec4530cA8EA59DB01B93536c6126BF: {'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 3758023541129, tx cost 4000000560000, overshot 241977018871'}

@@ -1,6 +1,6 @@
 import asyncio
 import random
-import time
+import sys
 
 from eth_account import Account
 from loguru import logger
@@ -10,6 +10,8 @@ from custom_logger_swap import logging_setup
 import config_swap
 from asyncio import Semaphore
 
+if sys.platform.startswith('win'):
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 logging_setup()
 
 # Загрузка ABI
@@ -27,6 +29,7 @@ async def contract_abi(web3):
     btc_contract = web3.eth.contract(address=config_swap.btc_address, abi=btc_abi)
     return swap_contract, wbtc_contract, btc_contract
 
+transaction_count = 0
 
 # Загрузка прокси из файла
 with open('../txt_files/proxy.txt', 'r') as f:
@@ -45,7 +48,7 @@ async def get_working_proxy(proxies):
 async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
     account = Account.from_key(private_key)
     address = account.address
-    transaction_count = 0
+
 
     try:
         аsync_web3 = AsyncWeb3(AsyncHTTPProvider(endpoint_uri=config_swap.provider_url, request_kwargs={"proxy": proxy}))
@@ -87,8 +90,8 @@ async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
                         })
 
                         await execute_transaction(аsync_web3, tx,
-                                                  private_key, address, transaction_count, 'wBTC -> BTC (обратный)', amount_wei)
-                        wallet_balance_btc = await аsync_web3.eth.get_balance(address)  # Обновляем баланс BTC
+                                                  private_key, address, 'wBTC -> BTC (обратный)', amount_wei)
+                        wallet_balance_btc = await аsync_web3.eth.get_balance(address)
                         logger.info(f'Новый баланс = {аsync_web3.from_wei(wallet_balance_btc, "ether")} BTC')
                         continue
                     else:
@@ -106,7 +109,7 @@ async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
                         'value': amount_wei,
                         'nonce': await аsync_web3.eth.get_transaction_count(address)
                     })
-                    await execute_transaction(аsync_web3, tx, private_key, address, transaction_count, name, amount_wei)
+                    await execute_transaction(аsync_web3, tx, private_key, address, name, amount_wei)
                 else:
                     logger.warning(f'Недостаточно BTC для депозита на кошельке {address}')
                     with open('ploxo_key_swap.txt', 'a') as f:
@@ -119,7 +122,7 @@ async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
                         'from': address,
                         'nonce': await аsync_web3.eth.get_transaction_count(address)
                     })
-                    await execute_transaction(аsync_web3, tx, private_key, address, transaction_count, name, amount_wei)
+                    await execute_transaction(аsync_web3, tx, private_key, address, name, amount_wei)
                 else:
                     logger.warning(f'Недостаточно wBTC для вывода на кошельке {address}')
                     with open('ploxo_key_swap.txt', 'a') as f:
@@ -133,7 +136,7 @@ async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
                         'value': amount_wei,
                         'nonce': await аsync_web3.eth.get_transaction_count(address)
                     })
-                    await execute_transaction(аsync_web3, tx, private_key, address, transaction_count, name, amount_wei)
+                    await execute_transaction(аsync_web3, tx, private_key, address, name, amount_wei)
                 else:
                     logger.warning(f'Недостаточно BTC для swapBTCtoWBTC на кошельке {address}')
                     with open('ploxo_key_swap.txt', 'a') as f:
@@ -151,7 +154,8 @@ async def process_wallet(private_key, base_amount, proxy, index, total_wallets):
         with open('ploxo_key_swap.txt', 'a') as f:
             f.write(f"{private_key} | {address} - {str(e)}\n")
 
-async def execute_transaction(web3_instance, tx, private_key, address, transaction_count, name, amount=0):
+async def execute_transaction(web3_instance, tx, private_key, address, name, amount=0):
+    global transaction_count
     try:
         signed_tx = web3_instance.eth.account.sign_transaction(tx, private_key)
         tx_hash = await web3_instance.eth.send_raw_transaction(signed_tx.raw_transaction)
@@ -185,7 +189,7 @@ async def main():
             async with semaphore:
                 return await process_wallet(private_key, base_amount, proxy, i, total_wallets)
 
-        tasks = [process_account_with_semaphore(private, base_amount, await get_working_proxy(proxies), i, total_wallets)
+        tasks = [process_account_with_semaphore(private, base_amount, random.choice(proxies), i, total_wallets)
              for i, private in enumerate(privates)]
         await asyncio.gather(*tasks)
 
